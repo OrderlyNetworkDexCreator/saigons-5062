@@ -24,7 +24,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
-  "VITE_TWITTER_URL": "",
+  "VITE_TWITTER_URL": "https://x.com/HTXaX3",
   "VITE_SEO_SITE_NAME": "Bitexco DEX",
   "VITE_SEO_SITE_DESCRIPTION": "Decentralized perpetual futures DEX on Solana. Trade with deep liquidity, up to 100x leverage, self-custody. Powered by Orderly Network. Join the Bitexco trading community!",
   "VITE_SEO_SITE_URL": "https://bitexco.xyz",
